@@ -1,6 +1,17 @@
 # A-Large-Dataset-to-Enhance-Skin-Cancer-Classification-with-Transformer-Based-Deep-Neural-Networks
 This repository contains the notebooks of the three best results presented in the paper and a read.me file that presents the construction of the Large Dataset proposed in the paper. For each dataset considered, a short explanation and references are presented. 
 
+## HAM 10000 and its 7 classes
+
+The HAM dataset consists of ten thousand images divided into seven classes: 
+- **Melanoma** (MEL): Melanoma is a malignant neoplasm originating from melanocytes, the cells responsible for skin pigmentation. %It represents the most lethal form of skin cancer, characterized by high morphological variability and a tendency for early metastasis.
+- **Melanocytic Nevi** (NV): Melanocytic nevi are benign lesions comprised of localized accumulations of melanocytes. %They are among the most common skin lesions, exhibiting a wide range of morphological appearances, typically circumscribed and with uniform pigmentation.
+- **Basal Cell Carcinoma** (BCC): Basal cell carcinoma is the most common form of skin cancer, originating from the basal cells of the epidermal layer. %It is characterized by slow growth and a low risk of metastasis, typically manifesting as nodular or ulcerative lesions.
+- **Actinic Keratoses** (AKIEC): Actinic keratoses are precancerous, scaly skin lesions induced by chronic exposure to ultraviolet rays. %They are considered precursors to squamous cell carcinoma and typically present as rough plaques on sun-exposed skin areas.
+- **Benign Keratosis-like Lesions** (BKL): Benign keratosis-like lesions encompass a variety of benign conditions, such as seborrheic keratosis, sebaceous hyperplasia, and clear cell acanthoma. %An overgrowth of the keratin component of the epidermis characterizes these lesions.
+- **Dermatofibroma** (DF): Dermatofibroma is a benign cutaneous nodule commonly resulting from a reaction to minor injuries or insect bites. %It typically presents as a firm, slightly raised lesion with a brown to reddish color.
+- **Vascular Lesions** (VASC): Vascular lesions include a range of conditions characterized by abnormal proliferation or dilation of blood or lymphatic vessels. %Common examples are hemangiomas and vascular malformations. They typically present as red or purplish spots or nodules.
+
 
 ## Used Datasets
 
