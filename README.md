@@ -47,8 +47,7 @@ The Large Dataset consists of 41.975 images. For each dataset used, the followin
 | ISIC Challenge 2018: Task 1-2 Test [[9]](#9)  | 3 |    539 | https://challenge.isic-archive.com/data/#2018 |
 | ISIC Challenge 2018: Task 1-2 Validation [[9]](#9)  | 3 |    47 | https://challenge.isic-archive.com/data/#2018 |
 | PH2 [[10]](#10)  | 3 |    200 | https://www.fc.up.pt/addi/ph2%20database.html |
-|:-----|:-----:|-----:|-----:|
-| **Total images** |   | **41.975** |
+| **Total of selected images** |   | **41.975** |
 
 
 ## References
