@@ -27,7 +27,8 @@ The Large Dataset consists of 41.975 images. For each dataset used, the followin
 - the link from which is possible to download the original dataset.
 
 
-| Dataset |  Original classes | Selected images cardinality [^1] | Download link |
+
+| Dataset |  Original classes | Selected images cardinality | Download link |
 |:-----|:-----:|-----:|-----:|
 | HAM 10000 [[1]](#1) | 7 | 10.015 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T |
 | Consecutive biopsies for melanoma [[2]](#2)  |  21  |   1.116 | https://api.isic-archive.com/collections/216/ |
@@ -46,7 +47,8 @@ The Large Dataset consists of 41.975 images. For each dataset used, the followin
 | ISIC Challenge 2018: Task 1-2 Test [[9]](#9)  | 3 |    539 | https://challenge.isic-archive.com/data/#2018 |
 | ISIC Challenge 2018: Task 1-2 Validation [[9]](#9)  | 3 |    47 | https://challenge.isic-archive.com/data/#2018 |
 | PH2 [[10]](#10)  | 3 |    200 | https://www.fc.up.pt/addi/ph2%20database.html |
-| **Total images** |   | 41.975 |
+|:-----|:-----:|-----:|-----:|
+| **Total images** |   | **41.975** |
 
 
 ## References
@@ -82,7 +84,3 @@ Codella, Noel CF, et al. "Skin lesion analysis toward melanoma detection: A chal
 
 <a id="10">[10]</a>
 Teresa Mendonça, Pedro M. Ferreira, Jorge Marques, Andre R. S. Marcal, Jorge Rozeira. PH² - A dermoscopic image database for research and benchmarking, 35th International Conference of the IEEE Engineering in Medicine and Biology Society, July 3-7, 2013, Osaka, Japan.
-
-
-
-[^1]: Cardinality of images belonging only to the 7 chosen classes listed above.
