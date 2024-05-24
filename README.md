@@ -4,7 +4,7 @@ This repository contains the notebooks of the three best results presented in th
 
 ## Used Datasets
 
-| Dataset |  Original classes | Final images[^1] | Download link |
+| Dataset |  Original classes | Final images [^1] | Download link |
 |:-----|:-----:|-----:|-----:|
 | HAM 10000 [[1]](#1) | 7 | 10.015 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T |
 | Consecutive biopsies for melanoma [[2]](#2)  |  21  |   1.116 | https://api.isic-archive.com/collections/216/ |
