@@ -1,7 +1,7 @@
 # A-Large-Dataset-to-Enhance-Skin-Cancer-Classification-with-Transformer-Based-DNN
 This is the repository of the paper "A Large Dataset to Enhance Skin Cancer Classification with Transformer-Based Deep Neural Networks," which contains the notebooks of the three best results presented in the paper and a read.me file that presents the construction of the Large Dataset proposed in the paper. For each dataset considered, a short explanation and references are presented.
 
-In addition, you will be able to find a folder named *LD_composition** containing the "_.csv_ files," which, dataset by dataset, will contain the "_id_" of the images considered for each dataset listed below. 
+In addition, you will be able to find a folder named **LD_composition** containing the "_.csv_ files," which, dataset by dataset, will contain the "_id_" of the images considered for each dataset listed below. 
 
 ## HAM 10000 and its 7 classes
 
