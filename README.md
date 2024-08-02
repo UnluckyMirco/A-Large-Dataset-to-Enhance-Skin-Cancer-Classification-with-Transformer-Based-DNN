@@ -1,7 +1,8 @@
 # A-Large-Dataset-to-Enhance-Skin-Cancer-Classification-with-Transformer-Based-DNN
 This is the repository of the paper "A Large Dataset to Enhance Skin Cancer Classification with Transformer-Based Deep Neural Networks," which contains the notebooks of the three best results presented in the paper and a read.me file that presents the construction of the Large Dataset proposed in the paper. For each dataset considered, a short explanation and references are presented.
 
-In addition, you will be able to find a folder named **LD_composition** containing the "_.csv_ files," which, dataset by dataset, will contain the "_id_" of the images considered for each dataset listed below. 
+In addition, in the **LD_composition** folder, you will find multiple CSV files, each corresponding to a different dataset. These files contain the "_id_" of the images considered for each dataset listed below.
+For the "SKINL2" dataset, there are four columns, as this dataset is provided in three different versions. The first column contains the IDs of the images we used, which have been modified for practicality since the same numbers sometimes represented different images across the three versions. The second column lists the original IDs from SKINL2 version 1, the third column lists the original IDs from SKINL2 version 2, and the fourth column lists the original IDs from SKINL2 version 3.
 
 ## HAM 10000 and its 7 classes
 
