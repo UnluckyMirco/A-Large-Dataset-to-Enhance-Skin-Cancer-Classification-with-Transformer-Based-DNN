@@ -56,6 +56,7 @@ The Large Dataset consists of 41.975 images. For each dataset used, the followin
 
 ## Cite
 To ensure proper attribution, we kindly request you to cite our paper when using this information:
+
 @ARTICLE{Gallazzi2024LargeDataset,
   author={Gallazzi, Mirco and Biavaschi, Sara and Bulgheroni, Alessandro and Gatti, Tommaso M. and Corchs, Silvia and Gallo, Ignazio},
   journal={IEEE Access},
