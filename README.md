@@ -1,5 +1,5 @@
 # A-Large-Dataset-to-Enhance-Skin-Cancer-Classification-with-Transformer-Based-DNN
-This is the repository of the paper "A Large Dataset to Enhance Skin Cancer Classification with Transformer-Based Deep Neural Networks," which contains the notebooks of the three best results presented in the paper and a read.me file that presents the construction of the Large Dataset proposed in the paper. For each dataset considered, a short explanation and references are presented.
+This is the repository of the paper "A Large Dataset to Enhance Skin Cancer Classification with Transformer-Based Deep Neural Networks" (https://ieeexplore.ieee.org/document/10623626), which contains the notebooks of the three best results presented in the paper and a read.me file that presents the construction of the Large Dataset proposed in the paper. For each dataset considered, a short explanation and references are presented.
 
 ## Large Dataset composition
 In the **LD_composition** folder, you will find multiple CSV files, each corresponding to a different dataset. These files contain the "_id_" of the images considered for each dataset listed below.
@@ -44,7 +44,7 @@ The Large Dataset consists of 41.975 images. For each dataset used, the followin
 | MSK5 [[3]](#3)  | 17 |    111 | https://api.isic-archive.com/collections/286/ |
 | Hospital Italiano de Buenos Aires Dataset [[4]](#4)  | 10 |    1.616 | https://api.isic-archive.com/collections/251/ |
 | SKINL2 [[5]](#5)  | 51 |    397 | https://www.it.pt/AutomaticPage?id=3459 |
-| BCN20000 [[6]](#6)  | 8 |    233 | https://api.isic-archive.com/collections/249/ |
+| BCN20000 [[6]](#6)  | 8 |    12413 | https://api.isic-archive.com/collections/249/ |
 | UDA-1 [[3]](#3)  | 7 |    555 | https://api.isic-archive.com/collections/292/ |
 | UDA-2 [[3]](#3)  | 7 |    60 | https://api.isic-archive.com/collections/291/ |
 | 7-point criteria evaluation (dermatoscopic) [[7]](#7)  | 20 |    963 | https://derm.cs.sfu.ca/Welcome.html |
@@ -53,6 +53,19 @@ The Large Dataset consists of 41.975 images. For each dataset used, the followin
 | ISIC Challenge 2018: Task 1-2 Validation [[9]](#9)  | 3 |    47 | https://challenge.isic-archive.com/data/#2018 |
 | PH2 [[10]](#10)  | 3 |    200 | https://www.fc.up.pt/addi/ph2%20database.html |
 | **Total of selected images** |   | **41.975** |
+
+## Cite
+To ensure proper attribution, we kindly request you to cite our paper when using this information:
+@ARTICLE{Gallazzi2024LargeDataset,
+  author={Gallazzi, Mirco and Biavaschi, Sara and Bulgheroni, Alessandro and Gatti, Tommaso M. and Corchs, Silvia and Gallo, Ignazio},
+  journal={IEEE Access},
+  title={A Large Dataset to Enhance Skin Cancer Classification With Transformer-Based Deep Neural Networks},
+  year={2024},
+  volume={12},
+  number={},
+  pages={109544-109559},
+  keywords={Transformers;Training;Skin;Lesions;Feature extraction;Melanoma;Biomedical imaging;Skin cancer;skin lesion;transformer neural network;image classification},
+  doi={10.1109/ACCESS.2024.3439365}}
 
 
 ## References
