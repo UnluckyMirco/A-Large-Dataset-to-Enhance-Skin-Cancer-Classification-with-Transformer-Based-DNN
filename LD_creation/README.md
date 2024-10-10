@@ -205,5 +205,5 @@ This involves downloading and organizing multiple skin lesion image datasets. On
       ├── PH2_dataset.txt
       ```
 
-#### Additional notes
+### Additional notes
 Following this process will help you recreate the Large Dataset used in the experiments. If you encounter any issues, please let us know for support.
