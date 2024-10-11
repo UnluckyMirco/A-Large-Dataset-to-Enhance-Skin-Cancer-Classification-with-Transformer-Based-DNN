@@ -26,10 +26,10 @@ Before running the script, make sure you have the necessary Python packages inst
 - **pandas**: for reading and manipulating the CSV file.
 - **rarfile**: for handling RAR archives.
 To install these, run the following commands:
-  ```
-  pip install pandas
-  pip install rarfile
-  ```
+```
+pip install pandas
+pip install rarfile
+```
 
 ### 5. Run the Python Script
 - Once the datasets are organized, run the `large_dataset_creation.py` script.
