@@ -25,6 +25,7 @@ Make sure to save the CSV file in a location where you can easily reference its 
 Before running the script, make sure you have the necessary Python packages installed. You will need to install the following dependencies:
 - **pandas**: for reading and manipulating the CSV file.
 - **rarfile**: for handling RAR archives.
+
 To install these, run the following commands:
 ```
 pip install pandas
