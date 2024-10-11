@@ -229,5 +229,19 @@ pip install rarfile
       ├── PH2_dataset.txt
       ```
 
+## Cite
+To ensure proper attribution, we kindly request you to cite our paper when using this information:
+
+@ARTICLE{Gallazzi2024LargeDataset,
+  author={Gallazzi, Mirco and Biavaschi, Sara and Bulgheroni, Alessandro and Gatti, Tommaso M. and Corchs, Silvia and Gallo, Ignazio},
+  journal={IEEE Access},
+  title={A Large Dataset to Enhance Skin Cancer Classification With Transformer-Based Deep Neural Networks},
+  year={2024},
+  volume={12},
+  number={},
+  pages={109544-109559},
+  keywords={Transformers;Training;Skin;Lesions;Feature extraction;Melanoma;Biomedical imaging;Skin cancer;skin lesion;transformer neural network;image classification},
+  doi={10.1109/ACCESS.2024.3439365}}
+  
 ### Additional notes
 Following this process will help you recreate the Large Dataset used in the experiments. If you encounter any issues, please let us know for support.
