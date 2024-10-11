@@ -17,10 +17,16 @@ This involves downloading and organizing multiple skin lesion image datasets. On
 ### 3. Run the Python Script
 - Once the datasets are organized, run the `large_dataset_creation.py` script.
 - The script will filter the images based on the specifications from our paper and generate the final Large Dataset.
+  During the execution, you will be prompted to input the following three paths:
+  - The path to the CSV file containing image metadata.
+  - The path to the folder where the ZIP/RAR datasets are located.
+  - The path to the output folder where the extracted images will be saved.
   
   To run the script, use the following command:
   ```bash
   python large_dataset_creation.py
+  ```
+  The script will then guide you through specifying the correct paths.
 
 ## Datasets and Download Links
 
