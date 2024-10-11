@@ -21,7 +21,17 @@ Download the metadata  file from this GitHub repository:
 These files contain the metadata for the images needed to create the Large Dataset.
 Make sure to save the CSV file in a location where you can easily reference its path later.
 
-### 4. Run the Python Script
+### 4. Install Required Dependencies
+Before running the script, make sure you have the necessary Python packages installed. You will need to install the following dependencies:
+- pandas: For reading and manipulating the CSV file.
+- rarfile: For handling RAR archives.
+To install these, run the following commands:
+  ```
+  pip install pandas
+  pip install rarfile
+  ```
+
+### 5. Run the Python Script
 - Once the datasets are organized, run the `large_dataset_creation.py` script.
 - The script will filter the images based on the specifications from our paper and generate the final Large Dataset.
   During the execution, you will be prompted to input the following three paths:
