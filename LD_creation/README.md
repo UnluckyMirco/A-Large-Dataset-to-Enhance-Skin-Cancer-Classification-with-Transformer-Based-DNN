@@ -14,12 +14,16 @@ This involves downloading and organizing multiple skin lesion image datasets. On
 - After downloading, rename the extracted dataset folders as specified (e.g., `HAM10000_images_part_1.zip`, `ISIC-msk1.zip`, `ISIC-consecutiveBiopsies2020.zip`, etc.).
 - Place all renamed folders into a single directory named `Skin_Lesions_Datasets`.
 
-### 3. Run the Python Script
+### 3. Download the CSV File
+Download the `LARGE_DATASET_METADATA.csv` file from this GitHub repository. This file contains the metadata for the images needed to create the Large Dataset.
+Make sure to save the CSV file in a location where you can easily reference its path later.
+
+### 4. Run the Python Script
 - Once the datasets are organized, run the `large_dataset_creation.py` script.
 - The script will filter the images based on the specifications from our paper and generate the final Large Dataset.
   During the execution, you will be prompted to input the following three paths:
-  - The path to the CSV file containing image metadata.
-  - The path to the folder where the ZIP/RAR datasets are located.
+  - The path to the LARGE_DATASET_METADATA.csv file you just downloaded.
+  - The path to the folder  `Skin_Lesions_Datasets` where the ZIP/RAR datasets are located.
   - The path to the output folder where the extracted images will be saved.
   
   To run the script, use the following command:
